@@ -1,6 +1,6 @@
 {
   "name": "shelby",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Gavin Lloyd <gavinhungry@gmail.com>",
   "description": "Issue commands to (and get responses from) a persistent shell",
   "license": "MIT",
